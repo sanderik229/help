@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "59L4U+lxz0I5vSg7UhWP6qokUpqys5RBCQetuSXojsm6HHI+TTkgoWVTu8swS9D4kD5AvmzSKQbsK0zHpYAbPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sander\\source\\repos\\Pract4WPF-master\\Pract4WPF\\Pract4WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sander\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\Sander\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sander\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Sander\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

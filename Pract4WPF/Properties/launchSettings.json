@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Pract4WPF": {
+      "commandName": "Project",
+      "nativeDebugging": true,
+      "hotReloadEnabled": true
+    }
+  }
+}

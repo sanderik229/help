@@ -1,0 +1,8 @@
+C:\Users\illid\source\repos\Pract4WPF\Pract4WPF\obj\Release\net8.0-windows\Pract4WPF.csproj.AssemblyReference.cache
+C:\Users\illid\source\repos\Pract4WPF\Pract4WPF\obj\Release\net8.0-windows\ChangeTestPage.g.cs
+C:\Users\illid\source\repos\Pract4WPF\Pract4WPF\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\illid\source\repos\Pract4WPF\Pract4WPF\obj\Release\net8.0-windows\NonTestPage.g.cs
+C:\Users\illid\source\repos\Pract4WPF\Pract4WPF\obj\Release\net8.0-windows\TestWindow.g.cs
+C:\Users\illid\source\repos\Pract4WPF\Pract4WPF\obj\Release\net8.0-windows\App.g.cs
+C:\Users\illid\source\repos\Pract4WPF\Pract4WPF\obj\Release\net8.0-windows\Pract4WPF_MarkupCompile.cache
+C:\Users\illid\source\repos\Pract4WPF\Pract4WPF\obj\Release\net8.0-windows\Pract4WPF_MarkupCompile.lref

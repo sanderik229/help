@@ -1,0 +1,71 @@
+﻿<Page x:Class="Pract4WPF.StartTestPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:Pract4WPF"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d"
+      Title="StartTestPage" Height="350" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <TextBlock
+            Foreground="FloralWhite"
+            x:Name="name_of_test_textblock"
+            Grid.Row="0"
+            FontSize="30"
+            FontFamily="TimesNewRoman"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            />
+        <TextBlock
+            Foreground="FloralWhite"
+            x:Name="description_of_test_textblock"
+            Grid.Row="1"
+            FontSize="20"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            />
+        <Button
+            Foreground="FloralWhite"
+            x:Name="answer1_of_test_button"
+            Grid.Row="2"
+            Click="Answer1_of_test_button_OnClick" Background="#FF794875"  
+            />
+        <!--<Grid
+            Grid.Row="2"
+            Width="{StaticResource GridWidth}">
+            <Button
+                x:Name="answer1_of_test_button"
+   
+                Click="Answer1_of_test_button_OnClick"
+                Height="{StaticResource ButtonHeight}"
+                materialDesign:ButtonAssist.CornerRadius="25"
+                IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                ToolTip="MaterialDesignRaisedDarkButton with Round Corners">
+                <TextBlock
+                    x:Name="textBlock1"
+                    Text="" />
+            </Button>
+        </Grid>-->
+        <Button
+            Foreground="FloralWhite"
+            x:Name="answer2_of_test_button"
+            Grid.Row="3"
+            Click="Answer2_of_test_button_OnClick" Background="#FF794875"
+        />
+        <Button
+            Foreground="FloralWhite"
+            x:Name="answer3_of_test_button"
+            Grid.Row="4"
+            Click="Answer3_of_test_button_OnClick" Background="#FF794875"
+        />
+    </Grid> 
+</Page>
